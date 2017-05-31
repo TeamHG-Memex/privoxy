@@ -17,3 +17,5 @@ Example usage: run a privoxy in a container and link to a tor socks proxy contai
         -p 8118:8118 \
         --name privoxy \
         hyperiongray/privoxy
+
+Dockerhub link: https://hub.docker.com/r/hyperiongray/privoxy/
