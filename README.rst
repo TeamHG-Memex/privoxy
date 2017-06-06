@@ -16,6 +16,6 @@ Example usage: run a privoxy in a container and link to a tor socks proxy contai
         -v /etc/localtime:/etc/localtime:ro \
         -p 8118:8118 \
         --name privoxy \
-        hyperiongray/privoxy:0.1.0
+        hyperiongray/privoxy
 
 Dockerhub link: https://hub.docker.com/r/hyperiongray/privoxy/
